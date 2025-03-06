@@ -19,12 +19,10 @@ class Solution {
         }
         int mid = c / 2;
         temp = head;
-        ListNode prev = null;
-        for(int i = 0; i < mid; i++){
-            prev = temp;
+        for(int i = 0; i < mid-1; i++){
             temp = temp.next;
         }
-        prev.next = temp.next;
+        temp.next = temp.next.next;
         return head;
     }
 }
