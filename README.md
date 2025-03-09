@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Umeshh27/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Umeshh27/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Umeshh27/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3778-transform-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Umeshh27/LeetCode/tree/master/0148-sort-list) |
+| [3778-transform-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Umeshh27/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
