@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Umeshh27/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Umeshh27/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Umeshh27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Umeshh27/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Umeshh27/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Umeshh27/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Umeshh27/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Umeshh27/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Umeshh27/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Math
 |  |
