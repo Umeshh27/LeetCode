@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Umeshh27/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Umeshh27/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Umeshh27/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Umeshh27/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Umeshh27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Umeshh27/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3778-transform-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Umeshh27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Umeshh27/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
