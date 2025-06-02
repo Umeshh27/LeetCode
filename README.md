@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/Umeshh27/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Umeshh27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3321-type-of-triangle](https://github.com/Umeshh27/LeetCode/tree/master/3321-type-of-triangle) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Umeshh27/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Umeshh27/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Umeshh27/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3778-transform-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Umeshh27/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Umeshh27/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 <!---LeetCode Topics End-->
