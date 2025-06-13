@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Umeshh27/LeetCode/tree/master/0575-distribute-candies) |
 | [0917-boats-to-save-people](https://github.com/Umeshh27/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Umeshh27/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1511-count-number-of-teams](https://github.com/Umeshh27/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Umeshh27/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Umeshh27/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Umeshh27/LeetCode/tree/master/0148-sort-list) |
 | [0917-boats-to-save-people](https://github.com/Umeshh27/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Umeshh27/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Umeshh27/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Umeshh27/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Umeshh27/LeetCode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Umeshh27/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Umeshh27/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Umeshh27/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3321-type-of-triangle](https://github.com/Umeshh27/LeetCode/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/3778-transform-array-by-parity) |
