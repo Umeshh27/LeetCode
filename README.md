@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Umeshh27/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Umeshh27/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Umeshh27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3221-find-the-peaks](https://github.com/Umeshh27/LeetCode/tree/master/3221-find-the-peaks) |
 | [3321-type-of-triangle](https://github.com/Umeshh27/LeetCode/tree/master/3321-type-of-triangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Umeshh27/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Umeshh27/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Umeshh27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Umeshh27/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3221-find-the-peaks](https://github.com/Umeshh27/LeetCode/tree/master/3221-find-the-peaks) |
 ## Binary Search Tree
 |  |
 | ------- |
