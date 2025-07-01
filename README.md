@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Umeshh27/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Umeshh27/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Umeshh27/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Umeshh27/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Umeshh27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Umeshh27/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Umeshh27/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
