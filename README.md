@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Umeshh27/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Umeshh27/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Umeshh27/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Umeshh27/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Umeshh27/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Umeshh27/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Umeshh27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Umeshh27/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Umeshh27/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Umeshh27/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Umeshh27/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Umeshh27/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
