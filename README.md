@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Umeshh27/LeetCode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Umeshh27/LeetCode/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/Umeshh27/LeetCode/tree/master/0585-investments-in-2016) |
+| [1179-game-play-analysis-i](https://github.com/Umeshh27/LeetCode/tree/master/1179-game-play-analysis-i) |
 ## Backtracking
 |  |
 | ------- |
