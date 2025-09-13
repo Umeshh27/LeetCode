@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umeshh27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Umeshh27/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Umeshh27/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Umeshh27/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umeshh27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Umeshh27/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Umeshh27/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Umeshh27/LeetCode/tree/master/0412-fizz-buzz) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Umeshh27/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Umeshh27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Umeshh27/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
