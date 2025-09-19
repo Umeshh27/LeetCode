@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Umeshh27/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Umeshh27/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Umeshh27/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Umeshh27/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Umeshh27/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Umeshh27/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Umeshh27/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Umeshh27/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Umeshh27/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Umeshh27/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Umeshh27/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Umeshh27/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Umeshh27/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Umeshh27/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
