@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Umeshh27/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Umeshh27/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Umeshh27/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Umeshh27/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Umeshh27/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Umeshh27/LeetCode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Umeshh27/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Umeshh27/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Umeshh27/LeetCode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umeshh27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Umeshh27/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Umeshh27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Umeshh27/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Umeshh27/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Umeshh27/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Umeshh27/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Umeshh27/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Umeshh27/LeetCode/tree/master/0782-jewels-and-stones) |
