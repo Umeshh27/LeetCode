@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Umeshh27/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Umeshh27/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Umeshh27/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Umeshh27/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Umeshh27/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Umeshh27/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Umeshh27/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Umeshh27/LeetCode/tree/master/0389-find-the-difference) |
