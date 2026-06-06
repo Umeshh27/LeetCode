@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Umeshh27/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Umeshh27/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Umeshh27/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Umeshh27/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Umeshh27/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Umeshh27/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Umeshh27/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -324,5 +325,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Umeshh27/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Umeshh27/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Umeshh27/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
