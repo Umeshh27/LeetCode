@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Umeshh27/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Umeshh27/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Umeshh27/LeetCode/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/Umeshh27/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/Umeshh27/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Umeshh27/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umeshh27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Umeshh27/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Umeshh27/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Umeshh27/LeetCode/tree/master/0742-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Umeshh27/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/Umeshh27/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Umeshh27/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umeshh27/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
