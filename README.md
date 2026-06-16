@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Umeshh27/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Umeshh27/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Umeshh27/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Umeshh27/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Umeshh27/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Umeshh27/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Umeshh27/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Umeshh27/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Umeshh27/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Umeshh27/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Umeshh27/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Umeshh27/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umeshh27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Umeshh27/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Umeshh27/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Umeshh27/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Umeshh27/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Umeshh27/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Umeshh27/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umeshh27/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Umeshh27/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Umeshh27/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Umeshh27/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Umeshh27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Umeshh27/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
