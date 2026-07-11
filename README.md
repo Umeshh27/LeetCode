@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Umeshh27/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Umeshh27/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Umeshh27/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Umeshh27/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Umeshh27/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Umeshh27/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Umeshh27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Umeshh27/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Umeshh27/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Umeshh27/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Umeshh27/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
