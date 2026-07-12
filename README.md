@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Umeshh27/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Umeshh27/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Umeshh27/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Umeshh27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Umeshh27/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Umeshh27/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Umeshh27/LeetCode/tree/master/0283-move-zeroes) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Umeshh27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Umeshh27/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Umeshh27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Umeshh27/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Umeshh27/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Umeshh27/LeetCode/tree/master/0389-find-the-difference) |
