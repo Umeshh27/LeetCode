@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Umeshh27/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Umeshh27/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Umeshh27/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Umeshh27/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Umeshh27/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Umeshh27/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Umeshh27/LeetCode/tree/master/1512-number-of-good-pairs) |
