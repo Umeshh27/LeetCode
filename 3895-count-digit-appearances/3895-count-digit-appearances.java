@@ -1,16 +1,18 @@
 class Solution {
     public int countDigitOccurrences(int[] nums, int digit) {
-        String[] arr = new String[nums.length];
-        int count = 0;
-        for (int i = 0; i < arr.length; i++) {
-            arr[i] = String.valueOf(nums[i]);
-            for (int j = 0; j < arr[i].length(); j++) {
-                char ch = arr[i].charAt(j);
-                if (ch == (char) (digit + '0')) {
-                    count++;
+        int c = 0;
+        for (int i = 0; i < nums.length; i++) {
+                if (nums[i] == 0 && digit == 0) {
+                    c++;
+                }
+                while (nums[i] != 0) {
+                    int digits = nums[i] % 10;
+                    nums[i] = nums[i] / 10;
+                if (digits == digit) {
+                    c++;
                 }
             }
         }
-        return count;
+        return c;
     }
 }
