@@ -6,14 +6,8 @@ class Solution {
         return gcd(even,odd%even);
     }
     public int gcdOfOddEvenSums(int n) {
-        int odd=0;
-        int even=0;
-        for(int i=1;i<=2*n;i++){
-            if(i%2==0){
-                even+=i;
-            }
-            else odd+=i;
-        }
+        int odd=n*n;
+        int even=n*(n+1);    
        return  gcd(odd,even);
     }
 }
