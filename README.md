@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Umeshh27/LeetCode/tree/master/0585-investments-in-2016) |
 | [1179-game-play-analysis-i](https://github.com/Umeshh27/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1523-capital-gainloss](https://github.com/Umeshh27/LeetCode/tree/master/1523-capital-gainloss) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Umeshh27/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Backtracking
 |  |
 | ------- |
