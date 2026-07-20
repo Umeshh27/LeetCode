@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umeshh27/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Umeshh27/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2048-build-array-from-permutation](https://github.com/Umeshh27/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Umeshh27/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Umeshh27/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Umeshh27/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Umeshh27/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Umeshh27/LeetCode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Umeshh27/LeetCode/tree/master/0917-boats-to-save-people) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Umeshh27/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Umeshh27/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Umeshh27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
