@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Umeshh27/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Umeshh27/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Umeshh27/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Umeshh27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Umeshh27/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Umeshh27/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Umeshh27/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Umeshh27/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Umeshh27/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Umeshh27/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Umeshh27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Umeshh27/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Umeshh27/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Umeshh27/LeetCode/tree/master/0389-find-the-difference) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Umeshh27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Umeshh27/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Umeshh27/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Umeshh27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Umeshh27/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Umeshh27/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Umeshh27/LeetCode/tree/master/0383-ransom-note) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Umeshh27/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Umeshh27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Umeshh27/LeetCode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umeshh27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Umeshh27/LeetCode/tree/master/1512-number-of-good-pairs) |
