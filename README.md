@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umeshh27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Umeshh27/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Umeshh27/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2325-decode-the-message](https://github.com/Umeshh27/LeetCode/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Umeshh27/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Umeshh27/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Umeshh27/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Umeshh27/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umeshh27/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Umeshh27/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/Umeshh27/LeetCode/tree/master/2325-decode-the-message) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Umeshh27/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Umeshh27/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Umeshh27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
