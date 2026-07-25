@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Umeshh27/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Umeshh27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Umeshh27/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Umeshh27/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Umeshh27/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Umeshh27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Umeshh27/LeetCode/tree/master/0242-valid-anagram) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Umeshh27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Umeshh27/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Umeshh27/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Umeshh27/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Umeshh27/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Umeshh27/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Umeshh27/LeetCode/tree/master/0389-find-the-difference) |
