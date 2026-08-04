@@ -427,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Umeshh27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Umeshh27/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
