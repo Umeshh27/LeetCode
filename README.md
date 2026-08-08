@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Umeshh27/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Umeshh27/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Umeshh27/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0705-design-hashset](https://github.com/Umeshh27/LeetCode/tree/master/0705-design-hashset) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Umeshh27/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Umeshh27/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Umeshh27/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Umeshh27/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Umeshh27/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/Umeshh27/LeetCode/tree/master/0705-design-hashset) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Umeshh27/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Umeshh27/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Umeshh27/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Umeshh27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Umeshh27/LeetCode/tree/master/0575-distribute-candies) |
+| [0705-design-hashset](https://github.com/Umeshh27/LeetCode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Umeshh27/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/Umeshh27/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Umeshh27/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -453,4 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Umeshh27/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Umeshh27/LeetCode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Umeshh27/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
