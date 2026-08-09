@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Umeshh27/LeetCode/tree/master/0705-design-hashset) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Umeshh27/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Umeshh27/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/Umeshh27/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Umeshh27/LeetCode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Umeshh27/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umeshh27/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/Umeshh27/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0867-transpose-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Umeshh27/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Counting Sort
 |  |
