@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Umeshh27/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Umeshh27/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Umeshh27/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Umeshh27/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Umeshh27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Umeshh27/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Umeshh27/LeetCode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Umeshh27/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0867-transpose-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Umeshh27/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
