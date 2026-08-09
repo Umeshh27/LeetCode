@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Umeshh27/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Umeshh27/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Umeshh27/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Umeshh27/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Umeshh27/LeetCode/tree/master/0705-design-hashset) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Umeshh27/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Umeshh27/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Umeshh27/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Umeshh27/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Umeshh27/LeetCode/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Umeshh27/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Umeshh27/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Umeshh27/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
