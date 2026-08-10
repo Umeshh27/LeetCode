@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Umeshh27/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Umeshh27/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Umeshh27/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Umeshh27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Umeshh27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Umeshh27/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Umeshh27/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Umeshh27/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Umeshh27/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Umeshh27/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Umeshh27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Umeshh27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Umeshh27/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Umeshh27/LeetCode/tree/master/0189-rotate-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Umeshh27/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Umeshh27/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Umeshh27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Umeshh27/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Umeshh27/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Umeshh27/LeetCode/tree/master/0217-contains-duplicate) |
