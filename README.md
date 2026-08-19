@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Umeshh27/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Umeshh27/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Umeshh27/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Umeshh27/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Umeshh27/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Umeshh27/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umeshh27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Umeshh27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Umeshh27/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Umeshh27/LeetCode/tree/master/0567-permutation-in-string) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Umeshh27/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Umeshh27/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Umeshh27/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
