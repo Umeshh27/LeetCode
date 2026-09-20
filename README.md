@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Umeshh27/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Umeshh27/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Umeshh27/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Umeshh27/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Umeshh27/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/Umeshh27/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/Umeshh27/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Umeshh27/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Umeshh27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Umeshh27/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3527-find-the-most-common-response](https://github.com/Umeshh27/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Umeshh27/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Umeshh27/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
