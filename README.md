@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Umeshh27/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Umeshh27/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Umeshh27/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Umeshh27/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Umeshh27/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Umeshh27/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Umeshh27/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Umeshh27/LeetCode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Umeshh27/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/Umeshh27/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Umeshh27/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Umeshh27/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Umeshh27/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Umeshh27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Umeshh27/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Umeshh27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Umeshh27/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Umeshh27/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Umeshh27/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Umeshh27/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Umeshh27/LeetCode/tree/master/2574-left-and-right-sum-differences) |
