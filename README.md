@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Umeshh27/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Umeshh27/LeetCode/tree/master/0229-majority-element-ii) |
 ## Bucket Sort
 |  |
